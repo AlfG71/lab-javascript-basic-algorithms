@@ -17,7 +17,7 @@ This exercise aims to familiarize you with the primitive data structures in Java
    <h2>Learning Goals</h2>
   </summary>
 
-  This exercise allows you to practice and apply the concepts and techniques taught in class. 
+  This exercise allows you to practice and apply the concepts and techniques taught in class.
 
   Upon completion of this exercise, you will be able to:
 
@@ -30,7 +30,7 @@ This exercise aims to familiarize you with the primitive data structures in Java
   - Use `for` or `while` loops to iterate over strings in normal and reverse order.
 
   <br>
-  <hr> 
+  <hr>
 
 </details>
 
@@ -95,15 +95,7 @@ Create a Pull Request so that the TAs can check your work.
 
 ### Iteration 3: Loops
 
-  3.1 Print the characters of the driver's name, separated by space, and [in capital letters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toUpperCase), i.e., `"J O H N"`.
-
-  3.2 Print all the characters of the navigator's name in reverse order, i.e., `"nhoJ"`.
-
-  3.3 Depending on the [lexicographic order](https://en.wikipedia.org/wiki/Lexicographical_order) of the strings, print: <br>
-
-- `The driver's name goes first.` <br>
-- `Yo, the navigator goes first, definitely.` <br>
-- `What?! You both have the same name?`
+  3.1 Print the characters of the driver's name, separated by space, and [in capital letters]}
 
 ### Bonus Time!
 
@@ -117,7 +109,7 @@ Go to the [lorem ipsum generator](http://www.lipsum.com/) website and:
 
 #### Bonus 2:
 
-Create a new variable, `phraseToCheck`, containing some string value. Write a code to check if the value assigned to this variable is a [Palindrome](https://en.wikipedia.org/wiki/Palindrome). Here are some examples of palindromes: 
+Create a new variable, `phraseToCheck`, containing some string value. Write a code to check if the value assigned to this variable is a [Palindrome](https://en.wikipedia.org/wiki/Palindrome). Here are some examples of palindromes:
 
   - "A man, a plan, a canal, Panama!"
   - "Amor, Roma"
@@ -151,7 +143,7 @@ __Happy coding!__ :heart:
 
   If you are stuck in your code and don't know how to solve the problem or where to start, you should take a step back and try to form a clear question about the specific issue you are facing. This will help you narrow down the problem and come up with potential solutions.
 
-  For example, is it a concept that you don't understand, or are you receiving an error message that you don't know how to fix? It is usually helpful to try to state the problem as clearly as possible, including any error messages you are receiving. This can help you communicate the issue to others and potentially get help from classmates or online resources. 
+  For example, is it a concept that you don't understand, or are you receiving an error message that you don't know how to fix? It is usually helpful to try to state the problem as clearly as possible, including any error messages you are receiving. This can help you communicate the issue to others and potentially get help from classmates or online resources.
 
   Once you have a clear understanding of the problem, you will be able to start working toward the solution.
 
@@ -188,7 +180,7 @@ __Happy coding!__ :heart:
   }
   ```
 
-  This code will iterate over each character in the `str` string. The loop will run for as many iterations as there are characters in the string. 
+  This code will iterate over each character in the `str` string. The loop will run for as many iterations as there are characters in the string.
   On each iteration, the loop will log the current character to the console.
 
   [Back to top](#faqs)
@@ -198,7 +190,7 @@ __Happy coding!__ :heart:
   <summary>How do I check if a substring exists in a given string?</summary>
   <br>
 
-  You can use the `includes()` method to check if a substring exists in a given string. 
+  You can use the `includes()` method to check if a substring exists in a given string.
 
   This method returns a boolean value  (`true` or `false`) indicating whether the string it is called on includes the substring specified as an argument.
 
